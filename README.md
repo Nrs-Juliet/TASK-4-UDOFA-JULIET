@@ -102,3 +102,10 @@ Users can dynamically filter the dashboard by:
 - Focus marketing strategies on high-performing product categories.
 - Introduce promotional campaigns during low-sales periods.
 - Strengthen customer retention strategies using referral insights.
+
+
+
+### 👩‍💻 Author
+**Juliet Udofa**
+
+Registered Nurse and Aspiring Data Analyst passionate about transforming data into meaningful insights
